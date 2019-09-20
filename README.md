@@ -24,6 +24,7 @@ This is a collection of research on Mixnets and Anonymous Communication Networks
   - [Bulletin boards](#bulletin-boards)
   - [PIR](#pir)
   - [DHTs](#dhts)
+  - [Other related projects and protocols](#other-related-projects-and-protocols)
   - [Contributing](#contributing)
 
 
@@ -116,6 +117,14 @@ This is a collection of research on Mixnets and Anonymous Communication Networks
 |Title|Author(s)|Year|Related info|
 |:---|:---|---|:---|
 [Fundamental Design Issues in Anonymous Peer-to-peer Distributed Hash Table Protocols](https://www.researchgate.net/profile/Todd_Baumeister/publication/334729155_Fundamental_Design_Issues_in_Anonymous_Peer-to-peer_Distributed_Hash_Table_Protocols/links/5d3cfdf1a6fdcc370a660bcd/Fundamental-Design-Issues-in-Anonymous-Peer-to-peer-Distributed-Hash-Table-Protocols.pdf) | Baumeister | 2019 | |
+
+## Other related projects and protocols
+
+* [Whisper](https://github.com/ethereum/wiki/wiki/Whisper)
+* [Whisper 2.0](https://github.com/w3f/messaging/)
+* [libp2p](https://libp2p.io)
+* [Noise protocol](https://noiseprotocol.org)
+   * [Snow (rust implementation)](https://github.com/mcginty/snow)
 
 ## Contributing
 Pull requests are welcomed! Help propose research to add to the list and help with the grouping and analysis. 💟
