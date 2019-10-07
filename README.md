@@ -1,6 +1,6 @@
 # Mixnet and ACN research
 
-This is a collection of research on Mixnets and Anonymous Communication Networks (ACN) that is a part of a wider effort of research for a default transaction building method for [Grin](https://grin-tech.org). The list is non-exhaustive, focuses on recent advances that are relevant in the context of Grin, and doesn't include more classical work.
+This is a collection of research material related to Mixnets and Anonymous Communication Networks (ACN) that is a part of a wider effort of research for a default transaction building method for [Grin](https://grin-tech.org). The list is non-exhaustive, focuses on recent advances that are relevant in the context of Grin, and doesn't include more classical work.
 
 🔥: Recommended in particular in our context
 
